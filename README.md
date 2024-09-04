@@ -44,7 +44,8 @@ stock-market-analyzer/
 1. The analysis focused on four major tech stocks: Apple (AAPL), Google (GOOGL), Microsoft (MSFT), and Amazon (AMZN).
 2. These tech stocks showed higher volatility but generally better returns compared to the broader market.
 3. The optimal portfolio allocation suggested a diversified investment across all four stocks for the best risk-adjusted returns.
-4. Apple (AAPL) consistently showed strong performance metrics, often with the highest Sharpe ratio.
+4. Apple (AAPL) consistently showed strong performance metrics, often with the highest Sharpe ratio. 
+
 
 ## Visualizations
 The project generates several plots to visualize the analysis results:
@@ -53,6 +54,8 @@ The project generates several plots to visualize the analysis results:
 2. Returns Distribution: Illustrates the distribution of returns for each stock.
 3. Correlation Heatmap: Displays the correlation between different stocks' returns.
 4. Efficient Frontier: Plots the efficient frontier and highlights the optimal portfolio allocation.
+
+![alt text](plot_0.png) ![alt text](plot_1.png) ![alt text](plot_2.png) ![alt text](plot_3.png) ![alt text](plot_4.png) ![alt text](plot_5.png)
 
 These plots are saved in the `static` folder and displayed on the web interface.
 
